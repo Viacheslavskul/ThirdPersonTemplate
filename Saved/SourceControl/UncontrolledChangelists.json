@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/1/Manual/ThirdPersonTemplate/Content/LightSwitchable/Blueprints/BP_Light.uasset",
+				"E:/1/Manual/ThirdPersonTemplate/Content/LightSwitchable/Blueprints/BP_LampPost.uasset",
+				"E:/1/Manual/ThirdPersonTemplate/Content/LightSwitchable/Blueprints/BP_SwitchableLight.uasset",
+				"E:/1/Manual/ThirdPersonTemplate/Content/LightSwitchable/Blueprints/BP_Button.uasset",
+				"E:/1/Manual/ThirdPersonTemplate/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
+				"E:/1/Manual/ThirdPersonTemplate/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset",
+				"E:/1/Manual/ThirdPersonTemplate/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/YW/T9T9QWT9QL0T9S5YSA6OVX.uasset",
+				"E:/1/Manual/ThirdPersonTemplate/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/HO/RHCYAF01RNKN12CT6I6757.uasset",
+				"E:/1/Manual/ThirdPersonTemplate/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/9N/BRIQ5166EKWVGE043W0ASF.uasset",
+				"E:/1/Manual/ThirdPersonTemplate/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/GG/W1DQVLW9KHOJQT5BAB89LO.uasset",
+				"E:/1/Manual/ThirdPersonTemplate/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/LJ/9A1B35ZS73O6JD95X4BG8C.uasset",
+				"E:/1/Manual/ThirdPersonTemplate/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"E:/1/Manual/ThirdPersonTemplate/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/1/Manual/ThirdPersonTemplate/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/YW/E2S7VZLI637M0SMQ8777XJ.uasset",
+				"E:/1/Manual/ThirdPersonTemplate/Content/LightSwitchable/Blueprints/BPI_Switchable.uasset"
+			]
+		}
+	]
+}
